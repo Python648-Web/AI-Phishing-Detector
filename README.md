@@ -77,6 +77,4 @@ This project was created to strengthen my understanding in:
 
 ## 👨‍💻 Author
 
-Created by **[Your Name]**
-
-Aspiring Computer Science & Cybersecurity student.
+Created by Ridhina Mohan
