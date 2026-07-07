@@ -44,7 +44,7 @@ The application then classifies the email into one of three categories:
 
 ---
 
-## 📸 Preview
+## Preview
 <img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/f0e6d487-3697-4168-bb86-6366a4166bab" />
 
 
@@ -75,6 +75,6 @@ This project was created to strengthen my understanding in:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Created by Ridhina Mohan
