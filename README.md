@@ -1,5 +1,5 @@
 # AI-Phishing-Detector
-An phishinh detection web application built with flask. This project simulates how cybersecuirty tools analyze suspicious emails by identifying potential threats.
+An phishing detection web application built with flask. This project simulates how cybersecuirty tools analyze suspicious emails by identifying potential threats.
 ---
 
 ## Features
